@@ -1,0 +1,2 @@
+(defn sum-list [lst] (reduce + lst))
+(println (sum-list [1 2 3 4 5]))
